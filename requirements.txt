@@ -1,3 +1,7 @@
-streamlit
-transformers
-torch
+flask
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+pyarrow
