@@ -7,3 +7,4 @@ wordcloud
 pyarrow
 gunicorn
 streamlit
+transformers
