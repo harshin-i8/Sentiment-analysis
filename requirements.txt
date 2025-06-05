@@ -8,3 +8,4 @@ pyarrow
 gunicorn
 streamlit
 transformers
+torch
